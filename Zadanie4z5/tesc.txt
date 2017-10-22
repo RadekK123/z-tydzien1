@@ -1,0 +1,8 @@
+4. Dynamiczne tworzenie elementów
+Stwórz aplikacjê, która zawieraæ bêdzie prosty formularz z wy³¹cznie jednym polem
+<input>, a tak¿e przyciskiem <button>. Napisz kod tak, aby po wpisaniu informacji do pola
+i po wciœniêciu przycisku, wstawiæ wpisane informacje do nowego elementu <li>, a ten
+element do wczeœniej wstawionego elementu <ul>. W ten sposób, za ka¿dym razem, gdy
+zostanie wpisane np. jakieœ imiê, pojawi siê ono na stronie. Dodatkowo mo¿esz (nie
+musisz) zadbaæ o to, by jeœli nic nie zosta³o wpisane do pola, nie wstawiaæ na stronê
+pustego elementu <li>.

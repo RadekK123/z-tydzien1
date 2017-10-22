@@ -1,0 +1,7 @@
+5. Praca z AJAX i JSON
+Stwórz aplikacjê, która pozwoli po klikniêciu wybranego przycisku, np. “Za³aduj”, pobraæ
+AJAXem dane typu JSON i wyœwietliæ je na stronie. Adres, pod który wyœlesz zapytanie z
+u¿yciem jQuery to https://jsonplaceholder.typicode.com/users
+Otrzymane dane wyœwietl na stronie w formie nieuporz¹dkowanej listy <ul>, a ka¿dego
+u¿ytkownika w tagu <li>. Z podanych danych wy³uskaj name, username, email oraz
+phone. Sformatuj je wed³ug w³asnego uznania.

@@ -1,0 +1,12 @@
+.container div[class*="col"] {
+	border: 1px solid green;
+	height: 50px;
+}
+
+.grid {
+	border: 1px solid blue;
+}
+
+.container div.grid-12 {
+	border: 2px solid red;
+}

@@ -1,0 +1,10 @@
+2. Selektory w jQuery
+Podaj przyk³ady selektorów, które pozwol¹ znaleŸæ na stronie nastêpuj¹ce elementy:
+- wszystkie elementy <div>, posiadaj¹ce zarówno klasê “grid” oraz klasê “grid-12”.
+- wszystkie elementy <a>, których atrybut “href" zaczyna siê na “http”, znajduj¹ce siê w
+elemencie o klasie “nav”
+- wszystkie elementy <input>, których typ to “radio” lub “checkbox” oraz dodatkowo nie
+s¹ aktualnie zaznaczone (checked).
+- wy³¹cznie pierwszy element <p>, który jest pusty (nie zawiera dzieci) oraz znajduje siê w
+elemencie <div> z identyfikatorem “text”
+- wszystkie elementy z klas¹ “pagination-item”, które nie s¹ elementem <span>

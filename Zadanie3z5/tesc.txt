@@ -1,0 +1,6 @@
+3. Pokazywanie elementów i animacje
+Stwórz kontener z przyk³adow¹ nawigacj¹, który domyœlnie nie bêdzie widoczny. Mo¿e on
+znajdowaæ siê na samej górze strony lub w sidebarze. Nastêpnie umieœæ na stronie
+przycisk typu “hamburger menu”, po klikniêciu którego wysunie siê wczeœniej ukryte
+menu. Animacja, jak¹ zastosujesz, zale¿y od Ciebie. Ponowne klikniêcie przycisku powinno
+chowaæ nawigacjê.

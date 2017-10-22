@@ -1,0 +1,6 @@
+1. GIT i GitHub
+Utwórz swoje pierwsze repozytorium kodu na GitHubie. To od Ciebie zale¿y, co w nim
+umieœcisz. Pamiêtaj jednak, aby dokonaæ w swoim przyk³adowym projekcie kilku zmian, a
+nastêpnie commitów. Wszystko to wyœlij do zdalnego repozytorium na GitHubie, a jako
+rozwi¹zanie zadania podaj do niego link. UWAGA! Rozwi¹zania pozosta³ych zadañ umieœæ
+równie¿ na GitHubie, dla ka¿dego tworz¹c nowe repozytorium.
